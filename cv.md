@@ -27,3 +27,16 @@ function greet() {
     console.log("Hello, world!")
 }
 ```
+## Languages
+
+* English - fluent
+* Russian - fluent
+* Kyrgyz - native
+
+## Education
+
+### I'm a graduate of bachelor degree in Computer Science at the Osh State University
+
+## Experience
+
+### Worked at several places, including internships
