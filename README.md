@@ -1,3 +1,4 @@
 # rsschool-cv
-https://tagaiii.github.io/rsschool-cv/cv
-https://tagaiii.github.io/rsschool-cv/
+[Markdown CV](https://tagaiii.github.io/rsschool-cv/cv)
+
+[CV](https://tagaiii.github.io/rsschool-cv/)
